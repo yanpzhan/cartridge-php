@@ -23,7 +23,7 @@ License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
 Cartridge-Version: 0.0.15
 Compatible-Versions: []
-Cartridge-Vendor: redhat
+Cartridge-Vendor: yanpzhan
 Categories:
 - service
 - php
@@ -63,3 +63,4 @@ Endpoints:
     Backend: ''
     Options:
       health: true
+Source-Url: https://github.com/yanpzhan/cartridge-php.git

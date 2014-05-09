@@ -27,8 +27,8 @@ Cartridge-Vendor: yanpzhan
 Categories:
 - service
 - php
-#- web_framework
-- external
+- web_framework
+
 Website: http://www.php.net
 Help-Topics:
   Developer Center: https://www.openshift.com/developers
@@ -43,8 +43,8 @@ Subscribes:
     Type: STRING:urlpath
     Required: false
 Scaling:
-  Min: 0
-  Max: 0
+  Min: 1
+  Max: -1
 Endpoints:
 - Private-IP-Name: IP
   Private-Port-Name: PORT

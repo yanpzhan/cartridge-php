@@ -65,4 +65,4 @@ Endpoints:
     Options:
       health: true
 #Source-Url: https://github.com/yanpzhan/cartridge-php.git
-Source-Url: file:///root/phpcart/
+Source-Url: file:///root/phpcart/cartridge-php/

@@ -28,7 +28,6 @@ Categories:
 - service
 - php
 - web_framework
-- external
 
 Website: http://www.php.net
 Help-Topics:
@@ -44,8 +43,8 @@ Subscribes:
     Type: STRING:urlpath
     Required: false
 Scaling:
-  Min: 0
-  Max: 0
+  Min: 1
+  Max: -1
 Endpoints:
 - Private-IP-Name: IP
   Private-Port-Name: PORT
